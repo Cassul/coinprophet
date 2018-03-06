@@ -1,5 +1,7 @@
 # README
 
+#See app in live https://cassul.github.io/coinprophet/
+
 # CoinProphet
 
 # Goal
